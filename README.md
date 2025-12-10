@@ -5,9 +5,8 @@ Users can post tweets, like, retweet, and view threaded replies — all rendered
 
 This project focuses on DOM manipulation, event handling, and modular JavaScript using ES modules.
 
-🚀 Live Demo
-
-👉Netlify link 
+🚀 Visit Site
+👉https://twimberapp.netlify.app/
 
 📁 Project Structure
 📦 Twimber
